@@ -1,3 +1,5 @@
+<img align="right" src="assets/profile-headshot.png" alt="Mysunat Islam professional headshot" width="180">
+
 # Mysunat Islam
 
 Biomedical AI and bioinformatics specialist focused on turning complex biomedical data into measurable research outcomes.
@@ -5,6 +7,8 @@ Biomedical AI and bioinformatics specialist focused on turning complex biomedica
 I work on biomarker discovery, microscopy image analysis, neuromechanical reflex modeling, ECG analytics, rehabilitation digital twins, and statistically defensible experiment analysis. My work is framed around the problem solved, the evidence produced, and the measurable impact delivered.
 
 Open to UAE/GCC remote roles, research collaborations, and biomedical AI projects.
+
+[Portfolio](https://mysunatislam.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/mysunat-islam-8742b3242/) | [Email](mailto:mysunatislam@gmail.com)
 
 ## Portfolio
 
